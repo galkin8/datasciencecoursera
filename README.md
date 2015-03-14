@@ -1,3 +1,2 @@
-# datasciencecoursera
-## This is a markdown file
+# datasciencecourser
 Created for my datascience toolbox project
